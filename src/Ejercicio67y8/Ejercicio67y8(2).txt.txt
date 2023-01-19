@@ -1,0 +1,8 @@
+Los patrones de diseños tienen por principales caracteristica:
+
+Primero:Lograr una estandarizacion en la forma de diseñarse o programar una aplicación.
+
+Segundo: Evitar la consecucion de trabajo a problemas ya conocidos y con soluciones disponibles, para los mismos.
+
+Con esto se procura la legibilida de los codigos, si no fuera asi, el trabajo de cada uno de los desarrolladores, 
+se hiciera mas dificil de realizar.
